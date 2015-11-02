@@ -1,5 +1,7 @@
 # Sweetalert
 
+[![Gem Version](https://badge.fury.io/rb/sweetalertify.svg)](https://badge.fury.io/rb/sweetalertify)
+
 A ruby gem for sweetalert [developed by t4t5](https://github.com/t4t5/sweetalert)
 A beautiful replacement for JavaScript's "alert"
 
