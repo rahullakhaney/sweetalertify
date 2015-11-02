@@ -12,7 +12,7 @@ A beautiful replacement for JavaScript's "alert"
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'sweetalert'
+gem 'sweetalertify'
 ```
 
 And then execute:
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install sweetalert
+    $ gem install sweetalertify
 
 ## Usage
 
